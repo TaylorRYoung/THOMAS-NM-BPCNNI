@@ -1,5 +1,5 @@
 # THOMAS-NM-BPCNNI
-Normative models of thalamic nuclear volumes
+Normative models of thalamic nuclear volumes. Thalamic segmentation performed with HIPS-THOMAS (Thalamus Optimized Multi-Atlas Segmentation)
 
 GAMLSS models cannot be shared as the R function requires the original data. Posted are the MFP models, which have very similar performance in cross-validation testing.
 
