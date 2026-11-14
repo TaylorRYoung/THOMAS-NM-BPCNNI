@@ -1,7 +1,7 @@
 # THOMAS-NM-BPCNNI
 Normative models of thalamic nuclear volumes
 
-Please cite:
+Please cite:  
 Young TR, Kumar VJ, Saranathan M. Normative modeling of thalamic nuclear volumes and characterization of lateralized volume alterations in Alzheimer’s disease versus schizophrenia. Biol Psychiatry Cogn Neurosci Neuroimaging [Internet]. 2024 Aug 23 [cited 2024 Oct 3]; Available from: http://dx.doi.org/10.1016/j.bpsc.2024.08.006
 
 Vidal JP, Danet L, Péran P, Pariente J, Bach Cuadra M, Zahr NM, Barbeau EJ, Saranathan M. Robust thalamic nuclei segmentation from T1-weighted MRI using polynomial intensity transformation. Brain Structure and Function; 229(5):1087-1101 (2024)
